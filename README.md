@@ -49,7 +49,7 @@ This project is a simple pathfinding visualization tool using Dijkstra's algorit
 
 ## Example
 
-![Example](example.png)
+![Example Image](./src/assets/demo.png)
 
 ## Project Structure
 
